@@ -1,6 +1,8 @@
 NAME:- SAVANTH REDDY MUDDADI
 STUDENT#:- 700748825
-VIDEO LINK:-
+VIDEO LINK:-https://github.com/savanthreddy7/neural_assignments/assets/157073654/f0df28ac-1a98-4430-af0e-ee3f4695baa6
+
+
 
 HELLO PROFESSOR,
 THIS IS SAVANTH REDDY MUDDADI.
